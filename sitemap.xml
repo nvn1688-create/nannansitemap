@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-  <!-- 首頁（繁體/簡體/x-default） -->
+  <!-- 首頁（繁體） -->
   <url>
     <loc>https://nannandiary.com/</loc>
     <changefreq>daily</changefreq>
@@ -12,6 +12,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nannandiary.com/" />
   </url>
 
+  <!-- 首頁（簡體） -->
   <url>
     <loc>https://nannandiary.com/zh-cn</loc>
     <changefreq>daily</changefreq>
@@ -21,5 +22,25 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nannandiary.com/" />
   </url>
 
-  <!-- 其餘頁面照同樣模式列出即可 -->
+  <!-- 功能頁 -->
+  <url>
+    <loc>https://nannandiary.com/features</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 隱私政策 -->
+  <url>
+    <loc>https://nannandiary.com/privacy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- 使用條款 -->
+  <url>
+    <loc>https://nannandiary.com/terms</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
 </urlset>

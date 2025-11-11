@@ -19,10 +19,12 @@ Allow: /faq
 Allow: /contact
 Allow: /privacy
 Allow: /terms
+Disallow: /admin
+Disallow: /oauth2/
+Disallow: /reset-password
 Disallow: /settings
 Disallow: /profile
 Disallow: /api/
-Disallow: /admin/
 Disallow: /dashboard/
 Disallow: /account/
 Disallow: /app/

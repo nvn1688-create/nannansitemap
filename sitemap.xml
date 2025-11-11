@@ -2,10 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-  <!-- ======== 首頁 ======== -->
+  <!-- 首頁（繁體/簡體/x-default） -->
   <url>
     <loc>https://nannandiary.com/</loc>
-    <lastmod>2025-11-11T00:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://nannandiary.com/" />
@@ -15,7 +14,6 @@
 
   <url>
     <loc>https://nannandiary.com/zh-cn</loc>
-    <lastmod>2025-11-11T00:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://nannandiary.com/" />
@@ -23,42 +21,5 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nannandiary.com/" />
   </url>
 
-  <!-- ======== 功能頁 ======== -->
-  <url>
-    <loc>https://nannandiary.com/features</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://nannandiary.com/features" />
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nannandiary.com/zh-cn/features" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nannandiary.com/features" />
-  </url>
-
-  <url>
-    <loc>https://nannandiary.com/zh-cn/features</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://nannandiary.com/features" />
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nannandiary.com/zh-cn/features" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nannandiary.com/features" />
-  </url>
-
-  <!-- ======== 隱私與條款 ======== -->
-  <url>
-    <loc>https://nannandiary.com/privacy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://nannandiary.com/privacy" />
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nannandiary.com/zh-cn/privacy" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nannandiary.com/privacy" />
-  </url>
-
-  <url>
-    <loc>https://nannandiary.com/terms</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://nannandiary.com/terms" />
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nannandiary.com/zh-cn/terms" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nannandiary.com/terms" />
-  </url>
-
+  <!-- 其餘頁面照同樣模式列出即可 -->
 </urlset>

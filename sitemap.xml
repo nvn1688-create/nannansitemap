@@ -1,46 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-  <!-- 首頁（繁體） -->
+  <!-- 繁體中文主要站 -->
   <url>
     <loc>https://nannandiary.com/</loc>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://nannandiary.com/" />
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nannandiary.com/zh-cn" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nannandiary.com/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nannandiary.com/zh-cn/" />
   </url>
 
-  <!-- 首頁（簡體） -->
-  <url>
-    <loc>https://nannandiary.com/zh-cn</loc>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://nannandiary.com/" />
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nannandiary.com/zh-cn" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nannandiary.com/" />
-  </url>
+  <!-- 日記與覺察模組 -->
+  <url><loc>https://nannandiary.com/daily-checkin</loc></url>
+  <url><loc>https://nannandiary.com/daily-journal</loc></url>
+  <url><loc>https://nannandiary.com/energy-awareness</loc></url>
+  <url><loc>https://nannandiary.com/energy-notes</loc></url>
+  <url><loc>https://nannandiary.com/self-dialogue</loc></url>
+  <url><loc>https://nannandiary.com/relationship-awareness</loc></url>
+  <url><loc>https://nannandiary.com/create-person-profile</loc></url>
+  <url><loc>https://nannandiary.com/gratitude-journal</loc></url>
+  <url><loc>https://nannandiary.com/manifestation-journal</loc></url>
+  <url><loc>https://nannandiary.com/manifestation-challenge</loc></url>
+  <url><loc>https://nannandiary.com/daily-happiness</loc></url>
+  <url><loc>https://nannandiary.com/social-awareness</loc></url>
+  <url><loc>https://nannandiary.com/body-awareness</loc></url>
+  <url><loc>https://nannandiary.com/emotion-awareness</loc></url>
+  <url><loc>https://nannandiary.com/habit-building</loc></url>
 
-  <!-- 功能頁 -->
-  <url>
-    <loc>https://nannandiary.com/features</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  <!-- 週報與洞察 -->
+  <url><loc>https://nannandiary.com/weekly-report</loc></url>
+  <url><loc>https://nannandiary.com/diary-writing</loc></url>
+  <url><loc>https://nannandiary.com/diary-overview</loc></url>
+  <url><loc>https://nannandiary.com/insights</loc></url>
 
-  <!-- 隱私政策 -->
-  <url>
-    <loc>https://nannandiary.com/privacy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
+  <!-- 使用者導引 -->
+  <url><loc>https://nannandiary.com/user-guide</loc></url>
+  <url><loc>https://nannandiary.com/faq</loc></url>
+  <url><loc>https://nannandiary.com/contact</loc></url>
+  <url><loc>https://nannandiary.com/privacy</loc></url>
+  <url><loc>https://nannandiary.com/terms</loc></url>
 
-  <!-- 使用條款 -->
-  <url>
-    <loc>https://nannandiary.com/terms</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
+  <!-- 設定與個人化 -->
+  <url><loc>https://nannandiary.com/settings</loc></url>
+  <url><loc>https://nannandiary.com/profile</loc></url>
+  <url><loc>https://nannandiary.com/theme-settings</loc></url>
+
+  <!-- AI 與宇宙訂單 -->
+  <url><loc>https://nannandiary.com/chat</loc></url>
+  <url><loc>https://nannandiary.com/universe-orders</loc></url>
+
+  <!-- 系統與帳號相關 -->
+  <url><loc>https://nannandiary.com/admin</loc></url>
+  <url><loc>https://nannandiary.com/oauth2/callback</loc></url>
+  <url><loc>https://nannandiary.com/person-insights/:personId</loc></url>
+  <url><loc>https://nannandiary.com/reset-password</loc></url>
+
+  <!-- 簡體中文版 -->
+  <url><loc>https://nannandiary.com/zh-cn/</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/daily-checkin</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/daily-journal</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/energy-awareness</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/energy-notes</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/self-dialogue</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/relationship-awareness</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/create-person-profile</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/gratitude-journal</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/manifestation-journal</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/manifestation-challenge</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/daily-happiness</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/social-awareness</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/body-awareness</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/emotion-awareness</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/habit-building</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/weekly-report</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/diary-writing</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/diary-overview</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/insights</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/user-guide</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/faq</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/contact</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/privacy</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/terms</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/settings</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/profile</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/theme-settings</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/chat</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/universe-orders</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/admin</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/oauth2/callback</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/person-insights/:personId</loc></url>
+  <url><loc>https://nannandiary.com/zh-cn/reset-password</loc></url>
 
 </urlset>

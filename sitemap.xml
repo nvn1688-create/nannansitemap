@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <!-- 繁體首頁 -->
@@ -28,18 +28,21 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- 價格頁 -->
   <url>
     <loc>https://nannandiary.com/pricing</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
+  <!-- 隱私權頁 -->
   <url>
     <loc>https://nannandiary.com/privacy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
+  <!-- 服務條款頁 -->
   <url>
     <loc>https://nannandiary.com/terms</loc>
     <changefreq>monthly</changefreq>
